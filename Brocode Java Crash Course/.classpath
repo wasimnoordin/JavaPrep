@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-java-beginner-tutorial/Brocode Java Crash Course/01-java-beginner-tutorial"/>
+	<classpathentry kind="src" path="02-variables"/>
+	<classpathentry kind="src" path="03-swap-two-variables"/>
+	<classpathentry kind="src" path="04-user-input"/>
+	<classpathentry kind="src" path="05-expressions"/>
+	<classpathentry kind="src" path="06-gui-intro"/>
+	<classpathentry kind="src" path="07-math-class"/>
+	<classpathentry kind="src" path="08-random-numbers"/>
+	<classpathentry kind="src" path="09-if-statements"/>
+	<classpathentry kind="src" path="10-switches"/>
+	<classpathentry kind="src" path="11-logical-operators"/>
+	<classpathentry kind="src" path="12-while-loop"/>
+	<classpathentry kind="src" path="13-for-loops"/>
+	<classpathentry kind="src" path="14-nested-loops"/>
+	<classpathentry kind="src" path="15-arrays"/>
+	<classpathentry kind="src" path="16-2D-arrays"/>
+	<classpathentry kind="src" path="17-string-methods"/>
+	<classpathentry kind="src" path="18-wrapper-classes"/>
+	<classpathentry kind="src" path="19-arraylist"/>
+	<classpathentry kind="src" path="20-2D-arraylist"/>
+	<classpathentry kind="src" path="21-for-each-loop"/>
+	<classpathentry kind="src" path="22-methods"/>
+	<classpathentry kind="src" path="23-overloaded-methods"/>
+	<classpathentry kind="src" path="24-printf"/>
+	<classpathentry kind="src" path="25-final-keyword"/>
+	<classpathentry kind="src" path="26-objects-OOP"/>
+	<classpathentry kind="src" path="27-constructors"/>
+	<classpathentry kind="src" path="28-variable-scope"/>
+	<classpathentry kind="src" path="29-overloaded-constructors"/>
+	<classpathentry kind="src" path="30-toString-method"/>
+	<classpathentry kind="src" path="31-array-of-objects"/>
+	<classpathentry kind="src" path="32-object-passing"/>
+	<classpathentry kind="src" path="33-static-keyword"/>
+	<classpathentry kind="src" path="34-inheritance"/>
+	<classpathentry kind="src" path="35-method-overriding"/>
+	<classpathentry kind="src" path="36-super-keyword"/>
+	<classpathentry kind="src" path="37-abstraction"/>
+	<classpathentry kind="src" path="38-access-modifiers"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
